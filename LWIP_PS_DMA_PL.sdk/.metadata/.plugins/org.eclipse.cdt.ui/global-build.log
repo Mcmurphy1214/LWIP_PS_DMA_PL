@@ -1,0 +1,665 @@
+15:42:11 **** Build of project project1_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axidma_v9_5/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v9_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/lwip141_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/lwip141_v2_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_5/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/axidma_v9_5/src"
+make -C ps7_cortexa9_0/libsrc/axidma_v9_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling axidma"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/lwip141_v2_0/src"
+make -C ps7_cortexa9_0/libsrc/lwip141_v2_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling lwip src and adapter files"
+In file included from ../../../include/lwip/ip.h:39:0,
+                 from lwip-1.4.1/src/core/ipv4/ip.c:42:
+lwip-1.4.1/src/core/ipv4/ip.c: In function 'ip_input':
+../../../include/lwip/ip_addr.h:200:39: warning: the comparison will always evaluate as 'false' for the address of 'current_iphdr_src' will never be NULL [-Waddress]
+ #define ip_addr_isany(addr1) ((addr1) == NULL || (addr1)->addr == IPADDR_ANY)
+                                       ^
+lwip-1.4.1/src/core/ipv4/ip.c:473:24: note: in expansion of macro 'ip_addr_isany'
+   if (check_ip_src && !ip_addr_isany(&current_iphdr_src))
+                        ^~~~~~~~~~~~~
+In file included from ../../../include/lwip/netif.h:41:0,
+                 from ../../../include/lwip/udp.h:40,
+                 from lwip-1.4.1/src/core/dhcp.c:75:
+lwip-1.4.1/src/core/dhcp.c: In function 'dhcp_bind':
+../../../include/lwip/ip_addr.h:200:39: warning: the comparison will always evaluate as 'false' for the address of 'gw_addr' will never be NULL [-Waddress]
+ #define ip_addr_isany(addr1) ((addr1) == NULL || (addr1)->addr == IPADDR_ANY)
+                                       ^
+lwip-1.4.1/src/core/dhcp.c:987:7: note: in expansion of macro 'ip_addr_isany'
+   if (ip_addr_isany(&gw_addr)) {
+       ^~~~~~~~~~~~~
+In file included from ../../../include/xemacps.h:348:0,
+                 from ../../../include/netif/xemacpsif.h:59,
+                 from contrib/ports/xilinx/netif/xemacpsif_dma.c:39:
+contrib/ports/xilinx/netif/xemacpsif_dma.c: In function 'init_dma':
+../../../include/xemacps_bd.h:163:62: warning: 'bdrxterminate' may be used uninitialized in this function [-Wmaybe-uninitialized]
+     (*(u32 *)((UINTPTR)(void*)(BaseAddress) + (u32)(Offset)) = (u32)(Data))
+                                                              ^
+contrib/ports/xilinx/netif/xemacpsif_dma.c:558:14: note: 'bdrxterminate' was declared here
+  XEmacPs_Bd *bdrxterminate;
+              ^~~~~~~~~~~~~
+In file included from ../../../include/xemacps.h:348:0,
+                 from ../../../include/netif/xemacpsif.h:59,
+                 from contrib/ports/xilinx/netif/xemacpsif_dma.c:39:
+../../../include/xemacps_bd.h:163:15: warning: 'bdtxterminate' may be used uninitialized in this function [-Wmaybe-uninitialized]
+     (*(u32 *)((UINTPTR)(void*)(BaseAddress) + (u32)(Offset)) = (u32)(Data))
+               ^
+contrib/ports/xilinx/netif/xemacpsif_dma.c:557:14: note: 'bdtxterminate' was declared here
+  XEmacPs_Bd *bdtxterminate;
+              ^~~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_5/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+15:43:51 **** Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:39:22: fatal error: platform.h: No such file or directory
+ #include "platform.h"
+                      ^
+compilation terminated.
+make: *** [src/main.o] ´íÎó 1
+15:46:28 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:12:29: error: expected ';', ',' or ')' before numeric constant
+ #define port                7
+                             ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:12:29: error: expected ';', ',' or ')' before numeric constant
+ #define port                7
+                             ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:47:10 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:48:10 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.h:10:41: error: expected ']' before ';' token
+ #define MAX_FLASH_LEN       16*1024*1024;
+                                         ^
+../src/echo.c:45:13: note: in expansion of macro 'MAX_FLASH_LEN'
+ u8 rxbuffer[MAX_FLASH_LEN];
+             ^~~~~~~~~~~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c:97:21: error: 'rxbuffer' undeclared (first use in this function)
+             memcpy(&rxbuffer[total_bytes], q->payload, q->len);   //å¤åˆ¶æ•°æ®åŒ…åˆ°rxbufferï¼Œä»Žq->payloadçš„ä½ç½®èµ·è‡³æ°”å€™q->lenä¸ªé•¿åº¦ï¼Œ
+                     ^~~~~~~~
+../src/echo.c:97:21: note: each undeclared identifier is reported only once for each function it appears in
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:48:18 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:48:35 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:51:32 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:35: error: 'port' undeclared (first use in this function)
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+                                   ^~~~
+../src/echo.c:144:35: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/echo.o] ´íÎó 1
+15:51:40 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:52:15 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:13:0: warning: "port" redefined
+ #define port            6789
+ 
+../src/echo.h:12:0: note: this is the location of the previous definition
+ #define port 7
+ 
+../src/echo.h:13:25: error: expected ';', ',' or ')' before numeric constant
+ #define port            6789
+                         ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:13:25: error: expected ';', ',' or ')' before numeric constant
+ #define port            6789
+                         ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:52:32 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+In file included from ../src/echo.c:36:0:
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:343:37: note: in expansion of macro 'port'
+                               u16_t port);
+                                     ^~~~
+../src/echo.h:12:14: error: expected ';', ',' or ')' before numeric constant
+ #define port 7
+              ^
+../../project1_bsp/ps7_cortexa9_0/include/lwip/tcp.h:345:37: note: in expansion of macro 'port'
+                               u16_t port, tcp_connected_fn connected);
+                                     ^~~~
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:8: warning: implicit declaration of function 'tcp_bind' [-Wimplicit-function-declaration]
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+        ^~~~~~~~
+make: *** [src/echo.o] ´íÎó 1
+15:52:56 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:35: error: 'port' undeclared (first use in this function)
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+                                   ^~~~
+../src/echo.c:144:35: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/echo.o] ´íÎó 1
+15:53:02 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:89:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+../src/echo.c: In function 'start_application':
+../src/echo.c:144:35: error: 'port' undeclared (first use in this function)
+  err = tcp_bind(pcb, IP_ADDR_ANY, port);
+                                   ^~~~
+../src/echo.c:144:35: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/echo.o] ´íÎó 1
+15:56:31 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:85:9: warning: implicit declaration of function 'sent_msg' [-Wimplicit-function-declaration]
+         sent_msg("\r\nStart Update DMA\r\n");
+         ^~~~~~~~
+'Finished building: ../src/echo.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/platform_zynq.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_zynq.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_zynq.d" -MT"src/platform_zynq.o" -o "src/platform_zynq.o" "../src/platform_zynq.c"
+'Finished building: ../src/platform_zynq.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+./src/echo.o: In function `recv_callback':
+D:\Program\Profession\Vivado\Project\LWIP_PS_DMA_PL\LWIP_PS_DMA_PL.sdk\project1\Debug/../src/echo.c:85: undefined reference to `sent_msg'
+D:\Program\Profession\Vivado\Project\LWIP_PS_DMA_PL\LWIP_PS_DMA_PL.sdk\project1\Debug/../src/echo.c:89: undefined reference to `sent_msg'
+collect2.exe: error: ld returned 1 exit status
+make: *** [project1.elf] ´íÎó 1
+15:58:00 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+'Finished building: ../src/echo.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: project1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size project1.elf  |tee "project1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 105716	   3836	18995488	19105040	1238510	project1.elf
+'Finished building: project1.elf.size'
+' '
+18:40:48 **** Clean-only build of configuration Debug for project project1 ****
+make clean 
+rm -rf  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o  ./src/echo.d ./src/main.d ./src/platform.d ./src/platform_zynq.d  project1.elf.size  project1.elf
+' '
+18:40:48 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+'Finished building: ../src/echo.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/platform_zynq.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_zynq.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_zynq.d" -MT"src/platform_zynq.o" -o "src/platform_zynq.o" "../src/platform_zynq.c"
+'Finished building: ../src/platform_zynq.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+./src/platform_zynq.o: In function `timer_callback':
+D:\Program\Profession\Vivado\Project\LWIP_PS_DMA_PL\LWIP_PS_DMA_PL.sdk\project1\Debug/../src/platform_zynq.c:133: undefined reference to `echo_netif'
+D:\Program\Profession\Vivado\Project\LWIP_PS_DMA_PL\LWIP_PS_DMA_PL.sdk\project1\Debug/../src/platform_zynq.c:133: undefined reference to `echo_netif'
+../../project1_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o): In function `_start':
+xil-crt0.S:(.text+0x68): undefined reference to `main'
+collect2.exe: error: ld returned 1 exit status
+make: *** [project1.elf] ´íÎó 1
+18:41:22 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: project1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size project1.elf  |tee "project1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 105716	   3836	18995488	19105040	1238510	project1.elf
+'Finished building: project1.elf.size'
+' '
+18:45:50 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: project1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size project1.elf  |tee "project1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 105716	   3836	18995488	19105040	1238510	project1.elf
+'Finished building: project1.elf.size'
+' '
+18:46:00 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: project1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size project1.elf  |tee "project1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 105716	   3836	18995488	19105040	1238510	project1.elf
+'Finished building: project1.elf.size'
+' '
+19:55:30 **** Incremental Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+'Finished building: ../src/echo.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: project1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size project1.elf  |tee "project1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 105760	   3836	18995488	19105084	123853c	project1.elf
+'Finished building: project1.elf.size'
+' '
+20:06:41 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:75:9: warning: assignment from incompatible pointer type [-Wincompatible-pointer-types]
+  rxbuff = rxbuffer;
+         ^
+'Finished building: ../src/echo.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: project1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size project1.elf  |tee "project1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 105848	   3836	18995488	19105172	1238594	project1.elf
+'Finished building: project1.elf.size'
+' '
+20:08:21 **** Auto Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/echo.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../project1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+../src/echo.c: In function 'recv_callback':
+../src/echo.c:75:9: warning: assignment makes pointer from integer without a cast [-Wint-conversion]
+  rxbuff = rxbuffer[0];
+         ^
+'Finished building: ../src/echo.c'
+' '
+'Building target: project1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../project1_bsp/ps7_cortexa9_0/lib -o "project1.elf"  ./src/echo.o ./src/main.o ./src/platform.o ./src/platform_zynq.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: project1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size project1.elf  |tee "project1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 105848	   3836	18995488	19105172	1238594	project1.elf
+'Finished building: project1.elf.size'
+' '
+20:08:53 **** Incremental Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+20:10:33 **** Incremental Build of configuration Debug for project project1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
